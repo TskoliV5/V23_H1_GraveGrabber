@@ -6,6 +6,6 @@
 ![Bakvið tjöldin](https://user-images.githubusercontent.com/114152875/222117285-8951304d-2a11-494e-9c7d-d9855aa4b7ff.jpeg)
 ![höfuðkúpa](https://user-images.githubusercontent.com/114152875/222125199-2a4b1ea2-fc82-4626-b39b-043e0964bed7.jpeg)
 
-[Linkur á myndband af virkni](https://youtu.be/Oin5u1-OZa4)
+[Linkur á myndband af virkni]([https://youtu.be/Oin5u1-OZa4](https://youtu.be/HyqvDulOtJI))
 
 [Linkur á kóða](/samsetning.ino)
