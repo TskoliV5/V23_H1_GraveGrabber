@@ -98,14 +98,7 @@ void setup() {
 }
 
 void loop() {
-  if(fjarlaegd() < 5) {
-    Serial.print("TEST:");
-    Serial.println(fjarlaegd());
-  } else {
-    Serial.print("Fjarlægð: ");
-    Serial.println(fjarlaegd());
-  }
-  if(fjarlaegd() < 5 || syning_i_gangi) {
+  if(fjarlaegd() < 50 || syning_i_gangi) {
         syning_i_gangi = true;
         // keyra dc í gang
         if(motor_delay.timiLidinn() == true) {
